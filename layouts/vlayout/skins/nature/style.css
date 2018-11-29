@@ -3255,3 +3255,5 @@ td.listViewEntryValue .row-fluid input {
 .listViewContentDiv { 
     position: relative; 
 }
+h3#_mailopen_subject {
+    margin-top: 15px; margin-bottom: -7px!important;}
